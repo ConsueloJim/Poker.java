@@ -38,8 +38,7 @@ import java.util.*;
 /* This is the main poker game class.
  * It uses Decks and Card objects to implement poker game.
  * Please do not modify any data fields or defined methods
- * You may add new data fields and methods
- * Note: You must implement defined methods
+ * You may add new data fields and methods.
  */
 
 
