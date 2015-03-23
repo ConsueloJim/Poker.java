@@ -3,7 +3,6 @@ package PJ4;
 import java.util.*;
 
 /** class PlayingCardException: It is used for errors related to Card and Deck objects
- *  Do not modify this class!
  */
 class PlayingCardException extends Exception {
 
@@ -22,7 +21,6 @@ class PlayingCardException extends Exception {
  *  it is an immutable class.
  *  Rank - valid values are 1 to 13
  *  Suit - valid values are 0 to 3
- *  Do not modify this class!
  */
 class Card {
 	
